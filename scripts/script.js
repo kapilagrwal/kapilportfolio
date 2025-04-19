@@ -239,11 +239,6 @@ $(document).ready(function() {
         $('.section.work .hero-image .image.image3').addClass('is--visible');
     });
     
-    $('.section.intro .option.ui-designs').click(function() {
-        $('.section.intro .option.ui-designs').addClass('is--active');
-        $('.section.intro .text.ui-designs').addClass('is--visible');
-        $('.section.work .hero-image .image.image2').addClass('is--visible');
-    });
     
 
     // $('.section.intro .option').click(function() {
