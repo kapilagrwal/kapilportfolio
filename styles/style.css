@@ -1001,7 +1001,7 @@ body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(1) {
 
 .section.work .hero-image .image1 {
     width: 100vw;
-    padding-bottom: 525%;
+    padding-bottom: 1050%;
     background-image: url("../assets/work/image1.jpg");
     background-size: contain;
     background-position: center;
